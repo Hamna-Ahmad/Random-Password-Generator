@@ -28,7 +28,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Credits
 
-This app was created by [Your Name].
+This app was created by Hamna.
 
 ## License
 
